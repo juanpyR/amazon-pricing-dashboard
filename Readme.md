@@ -76,7 +76,7 @@ pip install -r requirements.txt
 > Or install manually:
 
 ```
-pip install streamlit pandas numpy scikit-learn matplotlib seaborn
+pip install streamlit pandas numpy matplotlib seaborn
 ```
 
 3. Run the app:
