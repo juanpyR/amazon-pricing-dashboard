@@ -56,7 +56,7 @@ pip install streamlit pandas numpy scikit-learn matplotlib seaborn
 3. Run the app:
 
 ```
-streamlit run .py
+streamlit run amazon-pricing-dashboard.py
 ```
 
 4. The app will open automatically at `http://localhost:8501` (or another available port) in your browser.
