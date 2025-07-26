@@ -6,16 +6,23 @@ An interactive dashboard for Amazon product analysis and dynamic pricing insight
 
 ## 🚀 Key Features
 
-- Upload and dynamically filter Amazon product CSV datasets.
-- Key metrics including total revenue, profit, average margin, top-performing products, and more.
+- Load and analyze Amazon product datasets
+- Dynamic filtering by:
+  - Category
+  - Brand
+  - Price range
+- Business KPIs:
+  - Revenue
+  - Profit
+  - Margin
+  - Ratings
 - Visualizations:
-  - Units sold by category
-  - Profit by brand (top 15)
-  - Margin vs. price scatter plot
-  - Product rating distribution (if available)
-- View top 10 most profitable products.
-- Download filtered dataset as CSV.
-- User-friendly and customizable interface.
+  - Bar charts (e.g., top brands by profit)
+  - Histograms
+  - Scatter plots
+  - Pie charts (optional)
+- Table of top 10 most profitable products
+- Download filtered data as CSV
 
 ---
 
@@ -29,8 +36,27 @@ An interactive dashboard for Amazon product analysis and dynamic pricing insight
 - [NumPy](https://numpy.org/)
 
 ---
+## 🖼 Screenshots
 
-## 📁 Project Structure
+### 📊 Metrics Panel
+
+![Metrics](https://github.com/juanpyR/amazon-pricing-dashboard/blob/main/images/Metrics.png)
+
+### 🎛 Filters
+
+![Filters](https://github.com/juanpyR/amazon-pricing-dashboard/blob/main/images/Filters.png)
+
+### 📈 Charts
+
+![Charts](https://github.com/juanpyR/amazon-pricing-dashboard/blob/main/images/charts.png)
+
+### 🔍 Filtered Data
+
+![Filtered](https://github.com/juanpyR/amazon-pricing-dashboard/blob/main/images/filtered.png)
+
+### 🏆 Top 10 Products
+
+![Top10](https://github.com/juanpyR/amazon-pricing-dashboard/blob/main/images/top10.png)
 
 ## ▶️ How to Run
 
