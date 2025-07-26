@@ -40,23 +40,23 @@ An interactive dashboard for Amazon product analysis and dynamic pricing insight
 
 ### 📊 Metrics Panel
 
-![Metrics](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/images/Metrics.png)
+![Metrics](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/Images/Metrics.png)
 
 ### 🎛 Filters
 
-![Filters](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/images/Filters.png)
+![Filters](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/Images/Filters.png)
 
 ### 📈 Charts
 
-![Charts](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/images/charts.png)
+![Charts](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/Images/charts.png)
 
 ### 🔍 Filtered Data
 
-![Filtered](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/images/filtered.png)
+![Filtered](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/Images/filtered.png)
 
 ### 🏆 Top 10 Products
 
-![Top10](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/images/top10.png)
+![Top10](https://github.com/juanpyR/amazon-pricing-dashboard/raw/main/Images/top10.png)
 
 ## ▶️ How to Run
 
