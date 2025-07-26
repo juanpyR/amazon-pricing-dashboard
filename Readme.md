@@ -63,7 +63,7 @@ An interactive dashboard for Amazon product analysis and dynamic pricing insight
 1. Clone this repository:
 
 ```
-git clone https://github.com/tuUsuario/amazon-pricing-dashboard.git
+git clone https://github.com/JuanpyR/amazon-pricing-dashboard.git
 cd amazon-pricing-dashboard
 ```
 
